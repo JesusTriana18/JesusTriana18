@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 I’m currently studying computer engineering<br>🌱 I’m currently learning web development<br>
+📚 I am currently studying computer engineering at ITT <br>🌱 I’m currently learning web development<br> 
 
 
 ## 🌐 Socials:
